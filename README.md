@@ -4,7 +4,7 @@
 
 1、[RocketMQ实现分布式事务原理](https://www.cnblogs.com/qdhxhz/p/11191399.html)
 
-下面就这个项目做个整体简单介绍，并在文字最下方附上项目Github地址。
+下面就这个项目做个整体简单介绍。
 
 ## <font color=#FFD700>一、项目概述</font>
 
