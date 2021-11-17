@@ -78,3 +78,5 @@ http://localhost:9001/api/v1/order/save?userId=1&productId=1&total=4
 当然你也可以通过修改参数来模拟分布式事务出现的各种情况。
 
 <br>
+
+![acda64387e0896604b5932dc433c8b77](https://user-images.githubusercontent.com/37285812/142141841-4f32957b-a85a-4041-9e6f-950dab724821.gif)
